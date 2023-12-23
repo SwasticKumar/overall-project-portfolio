@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  /* background-color: aquamarine; */
+}
+.project-card {
+  /* border:1px solid black; */
+  /* background: #EA8D8D; */
+  background: rgba(246, 255, 220, 0.3);
+  width: 350px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.card-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 12px;
+}
+
+.btn:hover {
+  color:  #E4EfE9;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color:  #E4EfE9;
+}
+a:hover {
+  cursor: pointer;
+}
+h4 {
+  color:  #E4EfE9 ;
+}
+video{
+  width: 20rem;
+cursor: pointer;}
