@@ -124,7 +124,7 @@ const App = () => {
   return (
     <>
       <div className="App">
-        <h2 className="my-4 text-white">My Project</h2>
+        <h2 className="my-4 text-white">My Project's</h2>
         <div className="card-block">
           {projectData.map((value, index) => (
             <Card
