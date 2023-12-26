@@ -99,7 +99,8 @@ const App = () => {
     },
 
     {
-      video: "/video/Rest countries.mp4",
+      // video: "/video/Rest countries.mp4",
+      img:"./image/rest.png",
       heading: "Weather and Rest API ",
       git: "https://github.com/SwasticKumar/Guvi-b49-Daily-Task/tree/8620c5472f921e5729ea863d72b71c98154ec78c/day17Task%20-Weather%20%26%20RestCountries%20API",
       netlify: "https://rest-countries-and-weather-api.netlify.app/",
