@@ -134,7 +134,7 @@ const App = () => {
   return (
     <>
       <div className="App">
-        <h2 className="my-4 text-white">My Project's</h2>
+        <h2 className="my-4 text-white" ><img src="./image/logo.png" alt="swastickumar" style={{width:"10rem"}}/> <span style={{fontSize:"1.5rem",fontFamily:"monospace"}}>Project's</span></h2>
         <div className="card-block">
           {projectData.map((value, index) => (
             <Card
