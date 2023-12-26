@@ -4,40 +4,46 @@ import "./App.css";
 const App = () => {
   const projectData = [
     {
-      video: "/video/gold rate calculator.mp4",
+      // video: "/video/gold rate calculator.mp4",
+      img:"/image/gold.png",
       heading: "Gold Rate Calculator",
       git: "https://github.com/SwasticKumar/Gold-Rate-Calculator-FrontEnd.git",
       be: "https://github.com/SwasticKumar/Gold-Rate-Calculator-BackEnd.git",
       netlify: "https://gold-rate-calculator-capstone.netlify.app/",
     },
     {
-      video: "/video/url-shortern.mp4",
+      // video: "/video/url-shortern.mp4",
+      img:"/image/url.png",
       heading: "React URL Shortener",
       git: "https://github.com/SwasticKumar/URL-shortener-link-FrontEnd-.git",
       be: "https://github.com/SwasticKumar/URL-shortener-link-BackEnd.git",
       netlify: "https://url-shortener-application-swastic.netlify.app/",
     },
     {
-      video: "/video/password-set.mp4",
+      // video: "/video/password-set.mp4",
+      img:"/image/password.png",
       heading: "React Password Reset",
       git: "https://github.com/SwasticKumar/Password-Reset-FrontEnd.git",
       be: "https://github.com/SwasticKumar/Password-Reset-BackEnd.git",
       netlify: "https://swastic-media-password-reset.netlify.app/",
     },
     {
-      video: "./video/pricecard.mp4",
+      // video: "./video/pricecard.mp4",
+      img: "/image/card.png",
       heading: "React Price Card",
       git: "https://github.com/SwasticKumar/hosting-price-card-using-react.git",
       netlify: "https://hosting-price-card.netlify.app/",
     },
     {
-      video: "/video/formik react.mp4",
+      // video: "/video/formik react.mp4",
+      img: "/image/library.png",
       heading: "React Library Management",
       git: "https://github.com/SwasticKumar/Formik-Library-Management-System.git",
       netlify: "https://swastic-library-management-system.netlify.app",
     },
     {
-      video: "/video/axios-crud.mp4",
+      // video: "/video/axios-crud.mp4",
+      img: "/image/axios.png",
       heading: "React Axios CRUD",
       git: "https://github.com/SwasticKumar/React-Axios-using-CRUD.git",
 
@@ -45,22 +51,25 @@ const App = () => {
     },
 
     {
-      video: "./video/shoppingcard.mp4",
+      // video: "./video/shoppingcard.mp4",
+      img: "/image/store.png",
       heading: "React Shopping Card",
       git: "https://github.com/SwasticKumar/react-shopping-cart-task.git",
       netlify: "https://react-shopping-cart-task.netlify.app/",
     },
     {
-      video: "/video/Redmi.mp4",
-      heading: "React Context API",
-      git: "https://github.com/SwasticKumar/react-shopping-cart-using-context-api.git",
-      netlify: "https://react-shopping-cart-using-context-api.netlify.app/",
-    },
-    {
-      video: "/video/blog.mp4",
+      // video: "/video/blog.mp4",
+      img: "/image/blog.png",
       heading: "React Router DOM",
       git: "https://github.com/SwasticKumar/react-blog-site-using-router.git",
       netlify: "https://react-blog-site-using-router.netlify.app/",
+    },
+    {
+      // video: "/video/Redmi.mp4",
+      img: "/image/shop.png",
+      heading: "React Context API",
+      git: "https://github.com/SwasticKumar/react-shopping-cart-using-context-api.git",
+      netlify: "https://react-shopping-cart-using-context-api.netlify.app/",
     },
 
     {
